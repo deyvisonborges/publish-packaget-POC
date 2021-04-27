@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/tokens/core/index.ts"],"names":[],"mappings":";;;;;;AAAA,oDAA8B;AAC9B,qCAAoC;AACpC,+CAA8C;AAC9C,+BAA8B;AAC9B,mCAAkC;AAClC,2CAA0C;AAE7B,QAAA,aAAa,GAAG;IAC3B,MAAM,EAAE,gBAAM;IACd,OAAO,EAAE,iBAAO;IAChB,YAAY,EAAE,2BAAY;IAC1B,IAAI,EAAE,WAAI;IACV,MAAM,EAAE,eAAM;IACd,UAAU,EAAE,uBAAU;CACvB,CAAC"}
